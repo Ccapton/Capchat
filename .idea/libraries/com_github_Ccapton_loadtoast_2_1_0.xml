@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.Ccapton:loadtoast-2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/loadtoast-2.1.0.aar/21553690ced8cf2b9eca737ddafced67/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/loadtoast-2.1.0.aar/21553690ced8cf2b9eca737ddafced67/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Ccapton/loadtoast/2.1.0/de98c01f4fb6aaa3336169236f743f8e3b463576/loadtoast-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
